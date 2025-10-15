@@ -4,13 +4,13 @@ Name : Seifer Mathias
 
 Education : 
 
-Bombay Scottish School  (2011-2025)
+. Bombay Scottish School  (2011-2025)
 
-Northeastern University 
-Khoury College of Computer Sciences
+. Northeastern University 
+  Khoury College of Computer Sciences
 
-**Candidate : Bachelor's of Science in Computer Science*
+  **Candidate : Bachelor's of Science in Computer Science*
 
-Boston, MA   (September 2025-Present)
+   Boston, MA   (September 2025-Present)
 
-Expected Graduation Date : September 2029
+   Expected Graduation Date : September 2029
