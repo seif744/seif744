@@ -6,5 +6,7 @@
 
 +**Northeastern University 
 Khoury College of Computer Sciences
+
 **Candidate : Bachelor's of Science in Computer Science*
+
 +Boston, MA   (September 2025-Present)
